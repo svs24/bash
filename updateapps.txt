@@ -1,0 +1,5 @@
+#! /bin/bash
+# Script to run updates
+sudo apt-get update
+sudo apt-get upgrade
+echo "Updates complete"
